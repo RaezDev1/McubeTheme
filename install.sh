@@ -24,7 +24,7 @@ installTheme(){
     echo "Installing MineCube Official Theme...Please wait..."
     cd /var/www/pterodactyl
     rm -rf McubeTheme
-    git clone https://github.com/MBG-Codes-You/McubeTheme.git
+    git clone https://github.com/RaezDev1/McubeTheme.git
     cd McubeTheme
     rm /var/www/pterodactyl/resources/scripts/MineCube.css
     rm /var/www/pterodactyl/resources/scripts/index.tsx
