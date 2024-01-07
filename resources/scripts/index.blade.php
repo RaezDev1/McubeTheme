@@ -35,9 +35,4 @@
         </div>
     </div>
 </div>
-<div class="row">
-    <div class="col-xs-6 col-sm-3 text-center">
-        <a href="https://discord.gg/WvzNPpKr"><button class="btn btn-success" style="width:100%;"><i class="fa fa-fw fa-support"></i>Theme Support</button></a>
-    </div>
-</div>
 @endsection
