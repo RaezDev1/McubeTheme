@@ -20,7 +20,7 @@ TheHidden.tech (Coming soon.)
 
 Go to your vps where the panel is hosted and run
 ```sh
-bash <(curl -s https://raw.githubusercontent.com/MBG1337/McubeTheme/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/RaezDev1/McubeTheme/main/install.sh)
  ```
 **⚠️ use `sudo su` if you are not root**
 
